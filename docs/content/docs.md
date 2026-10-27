@@ -85,6 +85,7 @@ See the following for detailed instructions for
 - [QingStor](/qingstor/)
 - [Quatrix by Maytech](/quatrix/)
 - [rsync.net](/sftp/#rsync-net)
+- [SberDisk](/sberdisk/)
 - [Seafile](/seafile/)
 - [SFTP](/sftp/)
 - [Shade](/shade/)

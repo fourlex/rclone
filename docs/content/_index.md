@@ -209,6 +209,7 @@ WebDAV or S3, that work out of the box.)
 {{< provider name="rsync.net" home="https://rsync.net/products/rclone.html" config="/sftp/#rsync-net" >}}
 {{< provider name="Scaleway" home="https://www.scaleway.com/object-storage/" config="/s3/#scaleway" >}}
 {{< provider name="Scality (RING / ARTESCA)" home="https://www.scality.com/" config="/s3/#scality" >}}
+{{< provider name="SberDisk" home="https://sberdisk.ru/" config="/sberdisk/" >}}
 {{< provider name="Seafile" home="https://www.seafile.com/" config="/seafile/" >}}
 {{< provider name="Seagate Lyve Cloud" home="https://www.seagate.com/gb/en/services/cloud/storage/" config="/s3/#lyve" >}}
 {{< provider name="SeaweedFS" home="https://github.com/chrislusf/seaweedfs/" config="/s3/#seaweedfs" >}}

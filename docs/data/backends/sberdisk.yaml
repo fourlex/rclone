@@ -1,0 +1,23 @@
+backend: sberdisk
+name: SberDisk
+tier: Tier 3
+maintainers: External
+features_score: 4
+integration_tests: N/A
+data_integrity: None
+performance: High
+adoption: Rarely used
+docs: Full
+security: Medium
+virtual: false
+remote: 'TestSberDisk:'
+features:
+- About
+- CanHaveEmptyDirectories
+- Copy
+- DirMove
+- Move
+- Purge
+- ReadMimeType
+hashes: []
+precision: 3153600000000000000
